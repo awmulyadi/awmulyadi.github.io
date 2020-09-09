@@ -8,9 +8,3 @@ $link-color: #760023;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css?family=Rubik:400,700');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-
-body {
-  font-family: "Rubik", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
