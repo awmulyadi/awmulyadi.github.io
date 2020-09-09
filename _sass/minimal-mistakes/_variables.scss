@@ -5,7 +5,7 @@
 /*
    Typography
    ========================================================================== */
-@import 'https://fonts.googleapis.com/css?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900';
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,600,700';
 
 $doc-font-size: 16 !default;
 
@@ -15,7 +15,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: 'Rubik' -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+$sans-serif: 'Lato' -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
