@@ -9,3 +9,7 @@ $link-color: #760023;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.fa-white{
+    color: #ffffff;
+}
