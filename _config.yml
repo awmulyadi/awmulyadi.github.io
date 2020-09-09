@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AW Mulyadi | AI Researcher
+title: AW Mulyadi
 email: awmulyadi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmad Wisnu Mulyadi"
   avatar : "/assets/images/awmulyadi.jpg"
-  bio    : "AI researcher at Machine Intelligence Lab @ Korea University | Founder of Konsep.AI"
+  bio    : "AI researcher at Machine Intelligence Lab @ Korea University -- Founder of Konsep.AI"
   links:
     - label: "Konsep.AI"
       icon: "fas fa-fw fa-link"
