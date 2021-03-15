@@ -12,4 +12,4 @@ title: "Publications"
 # 2019
 - W. Jung, **A.W. Mulyadi**, and H.-I. Suk,  "[Unified Modeling of Imputation, Forecasting, and Prediction for AD Progression](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_19)," 2019 Medical Image Computing and Computer Assisted Intervention (MICCAI), China, Shenzhen, 2019, doi: 10.1007/978-3-030-32251-9_19.
 
-- E. Jun*, **A.W. Mulyadi***, and H.-I. Suk, "[Stochastic Imputation and Uncertainty-Aware Attention to EHR for Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/8852132)," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, pp. 1-7, doi: 10.1109/IJCNN.2019.8852132. *) Equally contributed.
+- E. Jun\*, **A.W. Mulyadi** \*, and H.-I. Suk, "[Stochastic Imputation and Uncertainty-Aware Attention to EHR for Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/8852132)," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, pp. 1-7, doi: 10.1109/IJCNN.2019.8852132. *) Equally contributed.
