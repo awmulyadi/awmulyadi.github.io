@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 # 2021
-- **A. W. Mulyadi**, E. Jun and H. -I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3053599.
+- **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3053599.
 
 # 2020
 - E. Jun, **A.W. Mulyadi**, J. Choi and H.-I. Suk, "[Uncertainty-Gated Stochastic Sequential Model for EHR Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/9177349)," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2020.3016670.
