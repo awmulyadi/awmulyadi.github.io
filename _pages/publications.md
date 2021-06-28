@@ -3,6 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 ## 2021
+- **A. W. Mulyadi** and H.-I. Suk, "[ProtoBrainMaps: Prototypical Brain Maps for Alzheimer's Disease Progression Modeling](https://openreview.net/forum?id=O9EWFKXcXTU)," in Medical Imaging with Deep Learning (MIDL) (Short Paper), 2021, Lübeck, Germany, 2021.
+
 - **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, 2021, doi: 10.1109/TCYB.2021.3053599.
 
 ## 2020
