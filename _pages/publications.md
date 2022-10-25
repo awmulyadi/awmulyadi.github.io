@@ -10,7 +10,13 @@ title: "Publications"
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Topological-aware Prototype Learning for Estimating Explainable Alzheimer’s Disease Likelihood Map](-)," in Conference of Korea Artificial Intelligence Association (KAIA), Jeju Island, South Korea, 2022.
 
+- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[XADLiME: eXplainable Alzheimer’s Disease Likelihood Map Estimation via Clinically-guided Prototype Learning](https://arxiv.org/abs/2207.13223)," arXiv preprint arXiv:2207.13223, 2022.
+
 ## 2021
+
+- S. Jeong, W. Ko, **A. W. Mulyadi**, and H.-I. Suk, "[Efficient Continuous Manifold Learning for Time Series Modeling](https://arxiv.org/abs/2112.03379)," arXiv preprint arXiv:2112.03379, 2021. [code]/[paper]
+  
+- W. Ko, W. Jung, E. Jeon, **A. W. Mulyadi**, and H.-I. Suk,  "[ENGINE: Enhancing Neuroimaging and Genetic Information by Neural Embedding](https://ieeexplore.ieee.org/document/9679140)," Proc. 21st IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, December 7-10, 2021.
 
 - **A. W. Mulyadi** and H.-I. Suk, "[ProtoBrainMaps: Prototypical Brain Maps for Alzheimer's Disease Progression Modeling](https://openreview.net/forum?id=O9EWFKXcXTU)," in Medical Imaging with Deep Learning (MIDL) (Short Paper), Lübeck, Germany, 2021.
 
