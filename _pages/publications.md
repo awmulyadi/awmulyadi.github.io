@@ -14,7 +14,7 @@ title: "Publications"
 
 ## 2021
 
-- S. Jeong, W. Ko, **A. W. Mulyadi**, and H.-I. Suk, "[Efficient Continuous Manifold Learning for Time Series Modeling](https://arxiv.org/abs/2112.03379)," arXiv preprint arXiv:2112.03379, 2021. [code]/[paper]
+- S. Jeong, W. Ko, **A. W. Mulyadi**, and H.-I. Suk, "[Efficient Continuous Manifold Learning for Time Series Modeling](https://arxiv.org/abs/2112.03379)," arXiv preprint arXiv:2112.03379, 2021.
   
 - W. Ko, W. Jung, E. Jeon, **A. W. Mulyadi**, and H.-I. Suk,  "[ENGINE: Enhancing Neuroimaging and Genetic Information by Neural Embedding](https://ieeexplore.ieee.org/document/9679140)," Proc. 21st IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, December 7-10, 2021.
 
