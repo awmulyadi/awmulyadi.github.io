@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Ahmad Wisnu Mulyadi"
   avatar : "/assets/images/awmulyadi.jpg"
-  bio    : "AI researcher at Machine Intelligence Lab @ Korea University -- Founder of Konsep.AI"
+  bio    : "PhD Candidate at Department of Brain and Cognitive Engineering, Korea University"
   links:
-    - label: "Konsep.AI"
-      icon: "fas fa-fw fa-link"
-      url: "https://konsep.ai"
+    # - label: "Konsep.AI"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://konsep.ai"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=u50w0cUAAAAJ&hl=en"
