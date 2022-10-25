@@ -5,7 +5,9 @@ title: "Publications"
 ## 2022
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer's Disease Identification](-)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022.
-  
+
+- K. Oh, D.-W. Heo, **A. W. Mulyadi**, W. Jung, E. Kang, and H.-I. Suk, "[Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction](-)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022.
+
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Topological-aware Prototype Learning for Estimating Explainable Alzheimer’s Disease Likelihood Map](-)," in Conference of Korea Artificial Intelligence Association (KAIA), Jeju Island, South Korea, 2022.
 
 ## 2021
