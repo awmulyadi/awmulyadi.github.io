@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmad Wisnu Mulyadi"
   avatar : "/assets/images/awmulyadi.jpg"
-  bio    : "PhD Candidate at Department of Brain and Cognitive Engineering, Korea University"
+  bio    : "PhD Candidate in Brain and Cognitive Engineering, Korea University"
   links:
     # - label: "Konsep.AI"
     #   icon: "fas fa-fw fa-link"
