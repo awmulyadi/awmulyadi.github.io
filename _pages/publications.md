@@ -2,6 +2,10 @@
 permalink: /publications/
 title: "Publications"
 ---
+## 2023
+
+- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, K.H. Lee and H.-I. Suk, "[Estimating Explainable Alzheimer’s Disease Likelihood Map via Clinically-guided Prototype Learning](#)," to be appeared in NeuroImage, 2023.
+
 ## 2022
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer's Disease Identification](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022. (Oral Presentation)
