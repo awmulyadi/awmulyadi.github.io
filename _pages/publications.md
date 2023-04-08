@@ -16,7 +16,7 @@ title: "Publications"
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[XADLiME: eXplainable Alzheimer’s Disease Likelihood Map Estimation via Clinically-guided Prototype Learning](https://arxiv.org/abs/2207.13223)," arXiv preprint arXiv:2207.13223, 2022.
 
-- **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, vol. 52:9, pp. 9684 - 9694, 2022.
+- **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, vol. 52(9), pp. 9684 - 9694, 2022.
 
 ## 2021
 
@@ -27,7 +27,7 @@ title: "Publications"
 - **A. W. Mulyadi** and H.-I. Suk, "[ProtoBrainMaps: Prototypical Brain Maps for Alzheimer's Disease Progression Modeling](https://openreview.net/forum?id=O9EWFKXcXTU)," in Medical Imaging with Deep Learning (MIDL) (Short Paper), Lübeck, Germany, 2021.
 
 ## 2020
-- E. Jun, **A. W. Mulyadi**, J. Choi and H.-I. Suk, "[Uncertainty-Gated Stochastic Sequential Model for EHR Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/9177349)," in IEEE Transactions on Neural Networks and Learning Systems, vol. 32:9, pp. 4052 - 4062, 2020.
+- E. Jun, **A. W. Mulyadi**, J. Choi and H.-I. Suk, "[Uncertainty-Gated Stochastic Sequential Model for EHR Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/9177349)," in IEEE Transactions on Neural Networks and Learning Systems, vol. 32(9), pp. 4052 - 4062, 2020.
 
 ## 2019
 - W. Jung, **A. W. Mulyadi**, and H.-I. Suk,  "[Unified Modeling of Imputation, Forecasting, and Prediction for AD Progression](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_19)," 2019 Medical Image Computing and Computer Assisted Intervention (MICCAI), Shenzhen, China, 2019.
