@@ -13,6 +13,7 @@ My current research interests include machine, deep learning in healthcare, time
 - Scientific Reports
 - Journal of Healthcare Informatics Research
 - PLOS Digital Health
+- Neural Processing Letters
 
 ### Domestic
 - Jurnal Rekayasa Sistem dan Industri (Telkom University)
