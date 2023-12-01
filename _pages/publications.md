@@ -4,7 +4,13 @@ title: "Publications"
 ---
 ## 2023
 
+- **A. W. Mulyadi**, J. S.
+Yoon, E. Jeon, W. Ko, and H.-I. Suk, "[An Introduction to Neural
+Networks and Deep Learning](https://shop.elsevier.com/books/deep-learning-for-medical-image-analysis/zhou/978-0-323-85124-4)," Deep Learning for Medical Image Analysis, Elsevier, 2023.
+
 - **A. W. Mulyadi** and H.-I. Suk, "[KindMed: Knowledge-Induced Medicine Prescribing Network for Medication Recommendation](https://arxiv.org/abs/2310.14552)," arXiv preprint, 	arXiv:2310.14552, 2023.
+
+- S. Jeong, W. Ko, **A. W. Mulyadi**, and H.-I. Suk, "[Deep Efficient Continuous Manifold Learning for Time Series Modeling](https://ieeexplore.ieee.org/abstract/document/10266751/)," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, K.H. Lee and H.-I. Suk, "[Estimating Explainable Alzheimer’s Disease Likelihood Map via Clinically-guided Prototype Learning](https://doi.org/10.1016/j.neuroimage.2023.120073)," NeuroImage, vol. 273, pp. 120073, June, 2023.
 
@@ -14,6 +20,8 @@ title: "Publications"
 
 - K. Oh, D.-W. Heo, **A. W. Mulyadi**, W. Jung, E. Kang, and H.-I. Suk, "[Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/80.pdf)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022.
 
+- H.-I. Suk, and **A. W. Mulyadi**, "[Method and Apparatus for Predicting and Explaining Diagnosis of Alzheimer's Disease](-)," Korean Patent, No. 10-2022-0143264, November 2022.
+
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Topological-aware Prototype Learning for Estimating Explainable Alzheimer’s Disease Likelihood Map](-)," in Conference of Korea Artificial Intelligence Association (KAIA), Jeju Island, South Korea, 2022.
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[XADLiME: eXplainable Alzheimer’s Disease Likelihood Map Estimation via Clinically-guided Prototype Learning](https://arxiv.org/abs/2207.13223)," arXiv preprint arXiv:2207.13223, 2022.
@@ -21,8 +29,6 @@ title: "Publications"
 - **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, vol. 52(9), pp. 9684 - 9694, 2022.
 
 ## 2021
-
-- S. Jeong, W. Ko, **A. W. Mulyadi**, and H.-I. Suk, "[Efficient Continuous Manifold Learning for Time Series Modeling](https://arxiv.org/abs/2112.03379)," arXiv preprint arXiv:2112.03379, 2021.
   
 - W. Ko, W. Jung, E. Jeon, **A. W. Mulyadi**, and H.-I. Suk,  "[ENGINE: Enhancing Neuroimaging and Genetic Information by Neural Embedding](https://ieeexplore.ieee.org/document/9679140)," Proc. 21st IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, December 7-10, 2021.
 
