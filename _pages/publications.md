@@ -4,6 +4,8 @@ title: "Publications"
 ---
 ## 2023
 
+- **A. W. Mulyadi** and H.-I. Suk, "[KindMed: Knowledge-Induced Medicine Prescribing Network for Medication Recommendation](https://arxiv.org/abs/2310.14552)," arXiv preprint, 	arXiv:2310.14552, 2023.
+
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, K.H. Lee and H.-I. Suk, "[Estimating Explainable Alzheimer’s Disease Likelihood Map via Clinically-guided Prototype Learning](https://doi.org/10.1016/j.neuroimage.2023.120073)," NeuroImage, vol. 273, pp. 120073, June, 2023.
 
 ## 2022
