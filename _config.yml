@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmad Wisnu Mulyadi"
   avatar : "/assets/images/awmulyadi.jpg"
-  bio    : "PhD Candidate in Brain and Cognitive Engineering, Korea University"
+  bio    : "Postdoctoral researcher with the Virtual Patient Engine team at the BioMed X Institute in Heidelberg, Germany, focusing on knowledge graph representation learning."
   links:
     # - label: "Konsep.AI"
     #   icon: "fas fa-fw fa-link"

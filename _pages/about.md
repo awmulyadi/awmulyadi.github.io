@@ -4,9 +4,9 @@ title: "About"
 ---
 
 ## About Me
-I am a postdoc researcher in [Virtual Patient Engine team](https://bio.mx/research-teams/artificial-intelligence/team-vpe/) at BioMed X Institute, Heidelberg, Germany. 
+I am a postdoctoral researcher in the [Virtual Patient Engine team](https://bmedx.com/research-teams/artificial-intelligence/team-vpe/) at the BioMed X Institute in Heidelberg, Germany.  
 
-My current research interests include machine, deep learning in healthcare, and graph representation learning.
+My research interests center on applying machine learning and deep learning to healthcare, with a particular focus on graph representation learning.
 
 ## Peer Review
 ### International
