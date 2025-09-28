@@ -2,7 +2,20 @@
 permalink: /publications/
 title: "Publications"
 ---
+## 2025
+- **A. W. Mulyadi**, L. Wehling, A. Kumar, N. Boucher, F. Abdessalem, S. Jager,  M. H. Mosa, T. Klabunde, T. Andreani, G Singh, ``BioMedReasoner: Towards Multi-Hop Reasoning using Path-based Relational Learning
+on Biomedical Knowledge Graphs", 2025 NeurIPS Workshop: AI for Science, San Diego, USA, December 2-7, 2025.
+
+- K. Oh, D.-W. Heo, **A. W. Mulyadi**, W. Jung, E. Kang, K. H. Lee, H.-I. Suk,
+"[A quantitatively interpretable model for Alzheimer’s disease prediction using deep counterfactuals](https://www.sciencedirect.com/science/article/pii/S1053811925000795)," NeuroImage, Vol. 309, 2025.
+
+## 2024
+- G. Singh*, L. Wehling*, **A. W. Mulyadi***, R. H. Sreenath, T. Klabunde, T. Andreani and D. McCloskey, "[Talk2Biomodels and Talk2KnowledgeGraph: AI agent-based application for prediction of patient biomarkers and reasoning over biomedical knowledge graphs](https://openreview.net/pdf?id=av4QhBNeZo)", 2025 ICLR Workshop: Machine Learning for Genomics Explorations, 2025. *) Equally contributed.
+
+- W. Park, **A. W. Mulyadi**, E. Kang, and H.-I. Suk, "[Prototype-Guided Contrastive Knowledge Graph Representation Learning for Diagnosis Prediction](https://link.springer.com/chapter/10.1007/978-981-97-8702-9_18)," International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), Jeju Island, Korea, 2024. (Oral Presentation)
+
 ## 2023
+- **A. W. Mulyadi** and H.-I. Suk, "Harnessing Personalized Medical Knowledge Graph for Safe Medication Recommendation," Explainable Artificial Intelligence (XAI) Workshop, Korea Artificial Intelligence Society Korea Computer Science Conference, Jeju Island, South Korea, 2023. 
 
 - **A. W. Mulyadi**, J. S.
 Yoon, E. Jeon, W. Ko, and H.-I. Suk, "[An Introduction to Neural
@@ -16,26 +29,26 @@ Networks and Deep Learning](https://shop.elsevier.com/books/deep-learning-for-me
 
 ## 2022
 
-- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer's Disease Identification](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022. (Oral Presentation)
+- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Clinically-guided Prototype Learning and Its Use for Explanation in Alzheimer's Disease Identification](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/22.pdf)," 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022. (Oral Presentation)
 
-- K. Oh, D.-W. Heo, **A. W. Mulyadi**, W. Jung, E. Kang, and H.-I. Suk, "[Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/80.pdf)," in 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022.
+- K. Oh, D.-W. Heo, **A. W. Mulyadi**, W. Jung, E. Kang, and H.-I. Suk, "[Quantifying Explainability of Counterfactual-Guided MRI Feature for Alzheimer’s Disease Prediction](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/80.pdf)," 2022 NeurIPS Workshop: 'Medical Imaging meets NeurIPS (MedNeurIPS)', New Orleans, USA, November 28-December 3, 2022.
 
 - H.-I. Suk, and **A. W. Mulyadi**, "[Method and Apparatus for Predicting and Explaining Diagnosis of Alzheimer's Disease](-)," Korean Patent, No. 10-2022-0143264, November 2022.
 
-- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Topological-aware Prototype Learning for Estimating Explainable Alzheimer’s Disease Likelihood Map](-)," in Conference of Korea Artificial Intelligence Association (KAIA), Jeju Island, South Korea, 2022.
+- **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[Topological-aware Prototype Learning for Estimating Explainable Alzheimer’s Disease Likelihood Map](-)," Conference of Korea Artificial Intelligence Association (KAIA), Jeju Island, South Korea, 2022.
 
 - **A. W. Mulyadi**, W. Jung, K. Oh, J.S. Yoon, and H.-I. Suk, "[XADLiME: eXplainable Alzheimer’s Disease Likelihood Map Estimation via Clinically-guided Prototype Learning](https://arxiv.org/abs/2207.13223)," arXiv preprint arXiv:2207.13223, 2022.
 
-- **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," in IEEE Transactions on Cybernetics, vol. 52(9), pp. 9684 - 9694, 2022.
+- **A. W. Mulyadi**, E. Jun and H.-I. Suk, "[Uncertainty-Aware Variational-Recurrent Imputation Network for Clinical Time Series](https://ieeexplore.ieee.org/document/9370004)," IEEE Transactions on Cybernetics, vol. 52(9), pp. 9684 - 9694, 2022.
 
 ## 2021
   
 - W. Ko, W. Jung, E. Jeon, **A. W. Mulyadi**, and H.-I. Suk,  "[ENGINE: Enhancing Neuroimaging and Genetic Information by Neural Embedding](https://ieeexplore.ieee.org/document/9679140)," Proc. 21st IEEE International Conference on Data Mining (ICDM), Auckland, New Zealand, December 7-10, 2021.
 
-- **A. W. Mulyadi** and H.-I. Suk, "[ProtoBrainMaps: Prototypical Brain Maps for Alzheimer's Disease Progression Modeling](https://openreview.net/forum?id=O9EWFKXcXTU)," in Medical Imaging with Deep Learning (MIDL) (Short Paper), Lübeck, Germany, 2021.
+- **A. W. Mulyadi** and H.-I. Suk, "[ProtoBrainMaps: Prototypical Brain Maps for Alzheimer's Disease Progression Modeling](https://openreview.net/forum?id=O9EWFKXcXTU)," Medical Imaging with Deep Learning (MIDL) (Short Paper), Lübeck, Germany, 2021.
 
 ## 2020
-- E. Jun, **A. W. Mulyadi**, J. Choi and H.-I. Suk, "[Uncertainty-Gated Stochastic Sequential Model for EHR Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/9177349)," in IEEE Transactions on Neural Networks and Learning Systems, vol. 32(9), pp. 4052 - 4062, 2020.
+- E. Jun, **A. W. Mulyadi**, J. Choi and H.-I. Suk, "[Uncertainty-Gated Stochastic Sequential Model for EHR Mortality Prediction](https://ieeexplore.ieee.org/abstract/document/9177349)," IEEE Transactions on Neural Networks and Learning Systems, vol. 32(9), pp. 4052 - 4062, 2020.
 
 ## 2019
 - W. Jung, **A. W. Mulyadi**, and H.-I. Suk,  "[Unified Modeling of Imputation, Forecasting, and Prediction for AD Progression](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_19)," 2019 Medical Image Computing and Computer Assisted Intervention (MICCAI), Shenzhen, China, 2019.

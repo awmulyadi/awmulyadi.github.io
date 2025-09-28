@@ -4,17 +4,21 @@ title: "About"
 ---
 
 ## About Me
-I am a PhD student in [Brain & Cognitive Engineering](https://brain.korea.ac.kr) at Korea University, Seoul. Also, I am a proud member as a researcher at [Machine Intelligence lab](https://milab.korea.ac.kr), under the guidance of Professor Heung-Il Suk.
+I am a postdoc researcher in [Virtual Patient Engine team](https://bio.mx/research-teams/artificial-intelligence/team-vpe/) at BioMed X Institute, Heidelberg, Germany. 
 
-My current research interests include machine, deep learning in healthcare, time series modeling, biomedical image analysis, and graph representation learning.
+My current research interests include machine, deep learning in healthcare, and graph representation learning.
 
 ## Peer Review
 ### International
 - Scientific Reports
 - Journal of Healthcare Informatics Research
-- PLOS Digital Health
+- BMC Medical Research Methodology 
 - Neural Processing Letters
+- IEEE Transactions on Cybernetics
+- International Journal of Machine Learning and Cybernetics 
+- PLOS Digital Health
 
 ### Domestic
 - Jurnal Rekayasa Sistem dan Industri (Telkom University)
 - Indonesian Journal of Business Intelligence (Universitas Alma Ata)
+- Southeast Asian Journal on Open and Distance Learning (SEAMEO SEAMOLEC)
